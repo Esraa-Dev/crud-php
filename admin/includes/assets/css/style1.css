@@ -1,0 +1,94 @@
+    body,
+    .card {
+        background-color: #443838;
+    }
+    
+    .card {
+        border: 1px solid #ff9700;
+    }
+    
+    .navbar-light .navbar-nav .nav-link,
+    .card-body h2 {
+        color: #fff;
+    }
+    
+    .bg-dark {
+        background-color: #ff9700!important;
+        /* background-color: #ff9700 !important; */
+        /* background-image: linear-gradient( #ff9700, #0198ad); */
+    }
+    
+    .bg-danger {
+        background-color: #ff9700!important;
+    }
+    
+    .table-dark,
+    .card-header {
+        background-color: #005a6c !important;
+    }
+    
+    .btn-primary {
+        color: #000;
+        background-color: #0198ad;
+        border-color: #007bff;
+    }
+    
+    .btn-danger {
+        color: fff;
+        background-color: #ff9700;
+        border-color: transparent;
+    }
+    
+    .btn-danger:hover {
+        color: #fff;
+        background-color: #0198ad;
+        border-color: transparent;
+    }
+    
+    .table-dark td,
+    .table-dark th,
+    .table-dark thead th {
+        border-color: #ff9700;
+    }
+    
+    label {
+        color: #07d6ff
+    }
+    
+    .box {
+        background-image: linear-gradient(to top, #ff9700, #0198ad);
+        color: #fff;
+        padding: 10px;
+        margin: 10px;
+        text-align: center;
+        height: 235px;
+        border-radius: 20px;
+        padding-top: 18px;
+        font-size: 32px;
+    }
+    
+    .box span {
+        font-size: 25px;
+    }
+    
+    .box h4 {
+        margin-top: 10px;
+        margin-bottom: 6px;
+    }
+    
+    form {
+        width: 50%;
+        padding: 20px;
+        border: 1px solid #ff9700;
+        background-image: linear-gradient(to top, #ff9700, #0198ad);
+    }
+    
+    input {
+        color: #ff9700;
+        background-color: blue;
+    }
+    
+    .navbar-light .navbar-brand,
+    .navbar-light .navbar-nav .active>.nav-link {
+        color: #005a6c;
+    }
